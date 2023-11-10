@@ -11,6 +11,7 @@
 		783395A22AFE113B0091928F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783395A12AFE113B0091928F /* ContentView.swift */; };
 		783395A42AFE113D0091928F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 783395A32AFE113D0091928F /* Assets.xcassets */; };
 		783395A82AFE113D0091928F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 783395A72AFE113D0091928F /* Preview Assets.xcassets */; };
+		783395AF2AFE13E20091928F /* GeneralMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783395AE2AFE13E20091928F /* GeneralMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		783395A32AFE113D0091928F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		783395A52AFE113D0091928F /* RectangleAniation.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RectangleAniation.entitlements; sourceTree = "<group>"; };
 		783395A72AFE113D0091928F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		783395AE2AFE13E20091928F /* GeneralMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				7833959F2AFE113B0091928F /* RectangleAniationApp.swift */,
 				783395A12AFE113B0091928F /* ContentView.swift */,
+				783395AE2AFE13E20091928F /* GeneralMenu.swift */,
 				783395A32AFE113D0091928F /* Assets.xcassets */,
 				783395A52AFE113D0091928F /* RectangleAniation.entitlements */,
 				783395A62AFE113D0091928F /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				783395A22AFE113B0091928F /* ContentView.swift in Sources */,
+				783395AF2AFE13E20091928F /* GeneralMenu.swift in Sources */,
 				783395A02AFE113B0091928F /* RectangleAniationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
